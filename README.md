@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🔬 Smart Chemical Waste Segregator
 
-<!--
-**sanikamangrulkar/sanikamangrulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Description
+A system designed to safely segregate chemical waste to reduce environmental hazards.
 
-Here are some ideas to get you started:
+## ⚙️ Technologies Used
+- Basic Engineering Concepts
+- Sensors (if used)
+- C Programming (if applicable)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Features
+- Waste classification
+- Safety-focused design
+- Eco-friendly approach
+
+## 📸 Project Preview
+(Add images here)
+
+## 👩‍🎓 Author
+Sanika Mangrulkar
